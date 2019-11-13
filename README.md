@@ -15,5 +15,5 @@ This react is bootstraped with `create-react-app`. And deployed to AWS's Amplify
 ### Todo:
 
 - Add navbar with links to documentations
-- Add user authentication
+- Add Amplify's user authentication
 - Add MongoDB access (to store list of tutorial docs)
